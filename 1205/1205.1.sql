@@ -1,1 +1,1 @@
-select * from emplouees;
+select * from employees;
